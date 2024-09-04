@@ -21,7 +21,7 @@ git clone <repository-url>
 ## Usage
 To run the CineTicket Index System, navigate to the project directory and execute:
 ```bash
-python ProgFunA1_s4015465_using_indexes.py
+python CineTicketIndexSystem.py
 ```
 The system will guide you through its features via a user-friendly menu.
 
