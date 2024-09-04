@@ -20,7 +20,7 @@ git clone <repository-url>
 ## How to Use
 To run the system, move into the project directory and execute the script with:
 ```bash
-python ProgFunA1_s4015465.py
+python CineTicketSystem.py
 ```
 Just follow the on-screen instructions to explore different features of the system through its menu.
 
