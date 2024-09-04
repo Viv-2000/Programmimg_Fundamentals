@@ -25,7 +25,7 @@ Make sure to download and place the following text files in the same directory a
 ## Usage
 Navigate to the project directory and execute the main script:
 ```bash
-python ProgFunA2_s4015465.py
+python CineTicketOOPSystem.py
 ```
 Interact with the system via the command-line interface, selecting options from the menu to perform different operations.
 
