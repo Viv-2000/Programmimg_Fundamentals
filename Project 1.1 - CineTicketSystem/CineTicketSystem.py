@@ -1,7 +1,4 @@
 #########################################################################################################################################################################################
-#NAME         : VIVEK AGGARWAL
-#STUDENT_ID   :S4015465
-#ALL PARTS ATTEMPTED
 
 ## THIS PROGRAM CANNOT RECOGNIZE WORDS OR NAMES THAT HAVE 2 WORDS WRITTEN TOGETHER WITHOUT SPACES
 
@@ -9,8 +6,8 @@
 #The following code will give the last movie entered as most popular movie with revenue of $0 if no mive has sold any ticket.
 
 
-#Only one web source used for this program apart from canvas modules and python documentation provided to us. The citation as per IEEE format is as follows:
-#“Python all(),” Programiz. [Online]. Available: https://www.programiz.com/python-programming/methods/built-in/all. [Accessed: 31-Mar-2023].
+#Only one web source used for this program apart from python documentation. The citation as per IEEE format is as follows:
+#“Python all(),” Programiz. [Online]. Available: https://www.programiz.com/python-programming/methods/built-in/all. 
 
 #########################################################################################################################################################################################
 #########################################################################################################################################################################################
