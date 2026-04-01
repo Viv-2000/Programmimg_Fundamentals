@@ -1,10 +1,4 @@
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------
-#NAME        :  VIVEK AGGARWAL
-#STUDENT ID  :  S4015465
-
-#HIGHEST PART ATTEMPTED -> HD
-
-#PROGRAMING FUNDAMENTAL ASSIGNMENT 2
 
 '''I started by defining the classes as mentioned in the assignment specifications, which was relatively easy since the assignment provided the exact specifications
 for the classes and their attributes. Initially, I didn't understand why we needed get_ID or get_name functions for every class, but later on, I realized that these
