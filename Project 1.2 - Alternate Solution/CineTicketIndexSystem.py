@@ -1,8 +1,4 @@
 #########################################################################################################################################################################################
-#NAME         : VIVEK AGGARWAL
-#STUDENT_ID   :S4015465
-#ALL PARTS ATTEMPTED
-
 
 #The following code takes input that is entirely case sensitive as the assignment allows us to assume that user always inputs a valid movie name, etc.
 #The following code currently does not give any errors.
