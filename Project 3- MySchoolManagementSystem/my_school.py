@@ -1,9 +1,6 @@
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#Name : Vivek Aggarwal
-#student ID: S4015465
-#
-#highest part attempted : hd
+
 #errors or missing things: this code does not calculate the weighted grade point avergae(WGPA) in the students table
 #                          this code does not print the students table in a sorted way
 #                          this code does not print the courses table in a sorted way
