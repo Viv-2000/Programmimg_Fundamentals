@@ -4,8 +4,8 @@
 #The following code currently does not give any errors.
 
 
-#Only one web source used for this program apart from canvas modules and python documentation provided to us. The citation as per IEEE format is as follows:
-#“Python all(),” Programiz. [Online]. Available: https://www.programiz.com/python-programming/methods/built-in/all. [Accessed: 31-Mar-2023].
+#Only one web source used for this program apart from python documentation. The citation as per IEEE format is as follows:
+#“Python all(),” Programiz. [Online]. Available: https://www.programiz.com/python-programming/methods/built-in/all. 
 
 
 #########################################################################################################################################################################################
